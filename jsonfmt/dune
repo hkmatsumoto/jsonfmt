@@ -1,2 +1,3 @@
 (library
- (name jsonfmt))
+ (name jsonfmt)
+ (libraries yojson))
